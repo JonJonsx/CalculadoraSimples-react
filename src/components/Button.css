@@ -20,6 +20,7 @@
   grid-column: span 2;
 }
 
+
 .button.triple{
   grid-column: span 3;
   color:#1b5259;
@@ -32,5 +33,3 @@
 .button.operation:active{
   color:#e26c68cc;
 }
-
-
